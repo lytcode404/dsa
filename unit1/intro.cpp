@@ -241,11 +241,7 @@ int main()
     // sparse.addElement(2, 1, 0);
     // sparse.addElement(2, 2, 3);
     // sparse.addElement(2, 3, 0);
-
     // sparse.displayMatrix();
-
-
-    
 
     return 0;
 }
